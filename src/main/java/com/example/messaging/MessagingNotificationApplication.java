@@ -1,4 +1,4 @@
-package com.example.messaging.notification;
+package com.example.messaging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
