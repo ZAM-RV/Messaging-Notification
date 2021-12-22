@@ -15,6 +15,6 @@ public class NotificationListenerService implements StreamListener<String, Objec
 
     @Override
     public void onMessage(ObjectRecord<String, NotificationMessage> message) {
-
+        System.out.println(message);
     }
 }
